@@ -20,3 +20,5 @@ To try the translator you can use this command:
 ./trad <prueba.c >prueba.l
 clisp prueba.l
 ```
+
+The last version of the trsanslator is located in this [file](./trad5.y)
