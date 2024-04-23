@@ -16,7 +16,7 @@ sudo apt-get install clisp
 
 To try the translator you can use this command:
 
-'''bash
+```bash
 ./trad <prueba.c >prueba.l
 clisp prueba.l
-'''
+```
